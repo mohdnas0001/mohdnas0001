@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<!--Banner-->
+
 ![Moh'd Nas Banner Image](./banner.png)
 
 <!--Night Owl image-->
@@ -67,7 +66,6 @@ Now, I'm focusing on **web development** with the following technologies:
 ### Fun Fact
 
 - 🤔 I’m fluent in three languages.
-<<<<<<< HEAD
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -157,5 +155,4 @@ Now, I'm focusing on **web development** with the following technologies:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 =======
->>>>>>> 4a366a657ab4d0eb736dd5deee0042e126b03cc1
 
