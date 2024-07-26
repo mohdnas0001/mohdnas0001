@@ -1,6 +1,9 @@
 
-![Moh'd Nas Banner Image](./banner.png)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./2.png">
+  <img src="./banner.png" alt="Moh'd Nas Banner Image">
+</picture>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
