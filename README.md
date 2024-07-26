@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴏʜ'ᴅ ɴᴀs! 
+# <img src="c/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴏʜ'ᴅ ɴᴀs! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -20,7 +20,7 @@
 - 🤝 Collaborating with other developers and contributing to open source.
 - 💼 Managing projects, adapting to new languages, and maintaining high standards.
 - ⏱️ Time management and prioritizing tasks effectively.
-=======
+
 # Welcome to My GitHub Profile 👋
 
 ## About Me
@@ -34,7 +34,6 @@ Now, I'm focusing on **web development** with the following technologies:
 - **TypeScript**
 - **Tailwind CSS**
 - **Material UI**
->>>>>>> 4a366a657ab4d0eb736dd5deee0042e126b03cc1
 
 ### Current Projects
 
@@ -61,7 +60,6 @@ Now, I'm focusing on **web development** with the following technologies:
 
 - 📫 You can reach me at [mohdnas0001@gmail.com](mailto:mohdnas0001@gmail.com)
 - 🌐 Connect with me on [LinkedIn](#) or follow me on [Twitter](#)
->>>>>>> 4a366a657ab4d0eb736dd5deee0042e126b03cc1
 
 ### Fun Fact
 
@@ -101,7 +99,6 @@ Now, I'm focusing on **web development** with the following technologies:
 <br />
 <br />
 
----
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -112,7 +109,6 @@ Now, I'm focusing on **web development** with the following technologies:
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
----
 
 <!--Contact Section--> 
 
@@ -154,5 +150,4 @@ Now, I'm focusing on **web development** with the following technologies:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-=======
 
