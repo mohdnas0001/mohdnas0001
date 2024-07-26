@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="c/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴏʜ'ᴅ ɴᴀs! 
+<img src="c/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴏʜ'ᴅ ɴᴀs! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
