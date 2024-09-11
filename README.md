@@ -48,7 +48,7 @@ Now, I'm focusing on **web development** with the following technologies:
 ### Connect With Me
 
 - 📫 You can reach me at [mohdnas0001@gmail.com](mailto:mohdnas0001@gmail.com)
-- 🌐 Connect with me on [LinkedIn](https://linkedin.com) or follow me on [Twitter](https://twitter.com)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nasir-mohammed-747762318) or follow me on [Twitter](https://x.com/northnas0?s=21)
 =======
 ### What I’m Currently Doing
 
@@ -145,10 +145,6 @@ Now, I'm focusing on **web development** with the following technologies:
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 <!--Footer--> 
 <p align="center">
