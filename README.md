@@ -44,12 +44,11 @@ Now, I'm focusing on **web development** with the following technologies:
 - **NSP (Nigerian Startup Portal)**: A platform supporting Nigerian startups.
 - **Tech Atlas**: A tool for tech centers and resources.
 
-<<<<<<< HEAD
 ### Connect With Me
 
 - 📫 You can reach me at [mohdnas0001@gmail.com](mailto:mohdnas0001@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nasir-mohammed-747762318) or follow me on [Twitter](https://x.com/northnas0?s=21)
-=======
+
 ### What I’m Currently Doing
 
 - 🔭 **Working on**: NSP and Tech Atlas
