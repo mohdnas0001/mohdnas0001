@@ -18,12 +18,6 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a focus on web development using Next.js, React, JavaScript, TypeScript, Tailwind CSS, and Material UI. I also have a background in Android development with Java and Kotlin.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning advanced web development techniques and collaboration.
-- 💻 Working on multiple projects including **NSP (Nigerian Startup Portal)** and **Tech Atlas**.
-- 🤝 Collaborating with other developers and contributing to open source.
-- 💼 Managing projects, adapting to new languages, and maintaining high standards.
-- ⏱️ Time management and prioritizing tasks effectively.
 
 # Welcome to My GitHub Profile 👋
 
@@ -39,34 +33,13 @@ Now, I'm focusing on **web development** with the following technologies:
 - **Tailwind CSS**
 - **Material UI**
 
-### Current Projects
-
-- **NSP (Nigerian Startup Portal)**: A platform supporting Nigerian startups.
-- **Tech Atlas**: A tool for tech centers and resources.
 
 ### Connect With Me
 
 - 📫 You can reach me at [mohdnas0001@gmail.com](mailto:mohdnas0001@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nasir-mohammed-747762318) or follow me on [Twitter](https://x.com/northnas0?s=21)
 
-### What I’m Currently Doing
 
-- 🔭 **Working on**: NSP and Tech Atlas
-- 🌱 **Learning**: Advanced web development techniques and collaboration
-- 💼 **Managing Projects**: Overseeing project timelines, coordinating tasks, and ensuring milestones are met efficiently.
-- 🌐 **Adapting to New Languages**: Quickly learning and integrating new programming languages and frameworks to enhance project capabilities.
-- 🤝 **Collaborating with Team Members**: Working closely with developers, designers, and stakeholders to achieve project goals and deliver high-quality results.
-- ⏱️ **Time Management**: Prioritizing tasks effectively to meet deadlines and optimize productivity.
-- 🏆 **Maintaining High Standards**: Committing to high-quality work by adhering to best practices and continuously improving skills.
-
-### Connect With Me
-
-- 📫 You can reach me at [mohdnas0001@gmail.com](mailto:mohdnas0001@gmail.com)
-- 🌐 Connect with me on [LinkedIn](#) or follow me on [Twitter](#)
-
-### Fun Fact
-
-- 🤔 I’m fluent in three languages.
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -84,23 +57,9 @@ Now, I'm focusing on **web development** with the following technologies:
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in web development and front-end frameworks.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in TypeScript and Tailwind CSS.</li>
-</ul>
+
   
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="#">Your First Blog Post</a></li>
-  <li><a href="#">Understanding TypeScript</a></li>
-  <li><a href="#">Mastering Tailwind CSS</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
+
 
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
