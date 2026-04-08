@@ -29,3 +29,7 @@ Background in **Android (Java/Kotlin)**.
 **UI:** Tailwind CSS, Material UI  
 **Mobile:** Android (Java, Kotlin)  
 **Tools:** Git, GitHub
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer" />
+</p>
