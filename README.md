@@ -4,7 +4,6 @@
   <img src="./banner.png" alt="Nasir Mohammed — Full‑Stack Developer">
 </picture>
 
-<h1 align="center">Nasir Mohammed</h1>
 <p align="center"><b>Full‑Stack Developer</b> • Next.js • React • TypeScript</p>
 
 <p align="center">
